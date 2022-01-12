@@ -3,3 +3,5 @@
 banana
 apple
 orange
+apple
+grape
